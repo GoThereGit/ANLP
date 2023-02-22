@@ -3,9 +3,7 @@
 </div>
 
 # First Workshop on Ancient Language Processing
-* Varna, Bulgaria
-* 7 Sept. 2023
-* Co-   with RANLP 2023 (https://ranlp.org/ranlp2023/)
+* 7 Sept. 2023, Varna, Bulgaria, @RANLP 2023 (https://ranlp.org/ranlp2023/)
 
 Ancient languages contain rich human historical and cultural wealth. So far there has been some good advancement in applying language technologies to ancient languages such as Sumerian, Akkadian, Latin, Ancient Greek and Ancient Chinese, especially in the construction of digital language resources and resources to facilitate automatic analysis. The workshop on Ancient Language Processing aims to focus specifically on ancient languages and scripts from the emergence of writing in Mesopotamia and Egypt c. 3000 BCE to the entire world up till 800 AD. We wish to provide a recognized forum to further advance this subfield of NLP, where researchers and practitioners can meet and discuss their latest work, and exchange ideas in addressing shared epigraphical challenges in language processing across various ancient languages, such as non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts. In addition, we propose shared tasks on Machine Translation for Ancient Chinese and Akkadian, respectively, to provide an opportunity to address the unique challenges faced by ancient language machine translation. 
 
