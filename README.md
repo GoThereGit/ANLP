@@ -1,6 +1,7 @@
 <div align='center'>
 <img src = 'https://github.com/GoThereGit/ALP/blob/main/ALP1.png'>
 </div>
+
 # First Workshop on Ancient Language Processing
 * Varna, Bulgaria
 * 7 Sept. 2023
