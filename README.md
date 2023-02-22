@@ -1,5 +1,5 @@
 <div align='center'>
-<img src = 'https://github.com/GoThereGit/ALP/blob/main/ALP1.png'>
+<img src = 'https://www.dhbase.com/codehub/images/alp/alp1.png'>
 </div>
 
 # First Workshop on Ancient Language Processing
