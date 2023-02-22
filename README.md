@@ -2,10 +2,10 @@
 <img src = 'https://github.com/GoThereGit/ALP/blob/main/ALP1.png'>
 </div>
 # First Workshop on Ancient Language Processing
-
 * Varna, Bulgaria
 * 7 Sept. 2023
 * Co-   with RANLP 2023 (https://ranlp.org/ranlp2023/)
+
 Ancient languages contain rich human historical and cultural wealth. So far there has been some good advancement in applying language technologies to ancient languages such as Sumerian, Akkadian, Latin, Ancient Greek and Ancient Chinese, especially in the construction of digital language resources and resources to facilitate automatic analysis. The workshop on Ancient Language Processing aims to focus specifically on ancient languages and scripts from the emergence of writing in Mesopotamia and Egypt c. 3000 BCE to the entire world up till 800 AD. We wish to provide a recognized forum to further advance this subfield of NLP, where researchers and practitioners can meet and discuss their latest work, and exchange ideas in addressing shared epigraphical challenges in language processing across various ancient languages, such as non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts. In addition, we propose shared tasks on Machine Translation for Ancient Chinese and Akkadian, respectively, to provide an opportunity to address the unique challenges faced by ancient language machine translation. 
 
 # Call For Papers
@@ -55,6 +55,7 @@ But not limited to:
 
 # Organizers:
 * Dr. Adam Anderson (adamganderson@gmail.com), UC Berkeley, USA
+
 Dr. Anderson is an assyriologist, computational linguist and PI of the FactGrid Cuneiform project (https://database.factgrid.de/wiki/FactGrid:Cuneiform_Project). His work brings together the fields of computational linguistics, archaeology and Assyriology / Sumerology to quantify the social and economic landscapes emerging during the Bronze Age in the ancient Near East. His research methods include network analysis / linked open data, archival studies, geospatial mapping and language modeling using NLP. He applies these mixed methods to large datasets of ancient texts and archaeological records, in order to better understand the lives of individuals and groups within ancient societies, and to relate these findings within the context of our lives today. He holds a PhD in Near Eastern Languages and Civilizations from Harvard University, an MA (zwischenprüfung) in Assyriology from Ludwig-Maximilians University, and a BA in Linguistics from Brigham Young University.
 * Dr. Shai Gordin (shaigo@ariel.ac.il), Ariel University, Israel
 Dr. Gordin is an assyriologist, historian of the ancient Near East, and digital humanist. He specializes in the cuneiform sources of the second and first millennium BCE, combining a philological-historical approach with modern tools and techniques of digital humanities and data science. His particular interests include NLP and ML of cuneiform, human and machine cooperation, spatial data analysis, social networks, and linked open data. His publications include some of the first successful applications of ML in Akkadian, and appeared in interdisciplinary journals such as PLOS ONE and PNAS. He is the PI of the Babylonian Engine project (https://ben-digpasts.com/demo), a platform for the study of cuneiform sources with ML models, and MAPA, a linked open data gazetteer of southern Babylonian placenames in the first millennium BCE (https://github.com/DigitalPasts/MAPA).
