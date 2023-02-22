@@ -34,7 +34,7 @@ But not limited to:
 * Levant: Eblaite, Amorite, Aramaic (incl. Mandaic and Syriac), Ancient Hebrew, Phynician, Ugaritic
 * Anatolia: Hittite, Luwian and minor Anatolian languages
 * Egypt: Ancient Egyptian, Coptic
-* Mediterranean: Linear A and B ,Ancient Greek, Latin
+* Mediterranean: Linear A and B, Ancient Greek, Latin
 * Arabia: Ancient North Arabian, old Arabic
 * India: Sanskrit, Eastern Panjabi, Pali
 * China: Literary Chinese, Tibetan
@@ -42,10 +42,9 @@ But not limited to:
 * Japan: Old Japanese
 
 # Submission Guidelines
-* All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section.
-
+* All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section. 
+* Papers must be written in English.
 * Full Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
-
 * Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 6 pages for content, with 2 additional pages for references.
 
 # Invited speakers
