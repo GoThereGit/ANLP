@@ -1,7 +1,10 @@
-# Ancient Language Processing Workshop
+# First Workshop on Ancient Language Processing
 
+* Varna, Bulgaria
+* 7 Sept. 2023
 Ancient languages contain rich human historical and cultural wealth. So far there has been some good advancement in applying language technologies to ancient languages such as Sumerian, Akkadian, Latin, Ancient Greek and Ancient Chinese, especially in the construction of digital language resources and resources to facilitate automatic analysis. The workshop on Ancient Language Processing aims to focus specifically on ancient languages and scripts from the emergence of writing in Mesopotamia and Egypt c. 3000 BCE to the entire world up till 800 AD. We wish to provide a recognized forum to further advance this subfield of NLP, where researchers and practitioners can meet and discuss their latest work, and exchange ideas in addressing shared epigraphical challenges in language processing across various ancient languages, such as non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts. In addition, we propose shared tasks on Machine Translation for Ancient Chinese and Akkadian, respectively, to provide an opportunity to address the unique challenges faced by ancient language machine translation. 
-# Themes
+
+# Call For Papers
 Papers and contributions are encouraged for any work related to Natural Language Processing of Ancient Languages. Topics of interest include (but are in no way limited to):
 * Charset (Unicode)
 * Input method (transliteration and transcription)
@@ -34,6 +37,13 @@ But not limited to:
 * China: Literary Chinese, Tibetan
 * Mesoamerica: Mayan
 * Japan: Old Japanese
+
+# Submission Guidelines
+* All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section.
+
+* Full Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
+
+* Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 6 pages for content, with 2 additional pages for references.
 
 # Invited speakers
 
