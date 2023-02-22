@@ -62,6 +62,7 @@ But not limited to:
 
     Dr. Li is an Associate Professor in the School of Chinese Language and Literature at Nanjing Normal University, PR China. His research is in Computational Linguistics and Digital Humanities. His research in Word Segmentation and POS Tagging in the Ancient Chinese  language is one of the pilot studies in this field. He organized the first international shared task of EvaHan2022 co-located with LT4HALA@LREC2022.  His research group has constructed the Ancient Chinese WordNet, as well as the POS tagged and named entity  linked DH database of ancient historian books. His related work has been published in Journals like Language Resources and Evaluation, Chinese History Studies, and Chinese Information Processing, as well as in Conference Proceedings of LRE, LT4HALA, and CCL. 
 * Dr. Yudong Liu (yudong.liu@wwu.edu), Western Washington University, USA
+
     Dr. Liu is an Associate Professor in Computer Science at Western Washington University, USA. Her research is in Natural Language Processing, Integration of Ethics Education in AI Courses, and User Authentication using Eye-tracking. Her research in Named Entity Recognition in the Sumerian language is one of the pilot studies in this field, and her related work has been published in Conference Proceedings of FLAIRS, NAACL, DeepLo and Rencontre. She has co-organized the Special Track on Natural Language Processing of Ancient Languages in FLAIRS-2015 and 2016. 
 * Dr. Marco C. Passarotti (marco.passarotti@unicatt.it), Università Cattolica del Sacro Cuore, Italy
 
