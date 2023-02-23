@@ -3,12 +3,12 @@
 </div>
 
 # First Workshop on Ancient Language Processing
-* 7 Sept. 2023, Varna, Bulgaria, @RANLP 2023 (https://ranlp.org/ranlp2023/)
+## Co-located with [RANLP 2023](https://ranlp.org/ranlp2023/) at Varna, Bulgaria
 
 Ancient languages contain rich human historical and cultural wealth. So far there has been some good advancement in applying language technologies to ancient languages such as Sumerian, Akkadian, Latin, Ancient Greek and Ancient Chinese, especially in the construction of digital language resources and resources to facilitate automatic analysis. The workshop on Ancient Language Processing aims to focus specifically on ancient languages and scripts from the emergence of writing in Mesopotamia and Egypt c. 3000 BCE to the entire world up till 800 AD. We wish to provide a recognized forum to further advance this subfield of NLP, where researchers and practitioners can meet and discuss their latest work, and exchange ideas in addressing shared epigraphical challenges in language processing across various ancient languages, such as non-Latin and non-alphabetic scripts, Right-to-Left, transliteration conventions and fragmentary texts. In addition, we propose shared tasks on Machine Translation for Ancient Chinese and Akkadian, respectively, to provide an opportunity to address the unique challenges faced by ancient language machine translation. 
 
 # Call For Papers
-Papers and contributions are encouraged for any work related to Natural Language Processing of Ancient Languages. Topics of interest include (but are in no way limited to):
+Papers and contributions are encouraged for any work related to Natural Language Processing of Ancient Languages. Topics of interest include, but are not limited to:
 * Charset (Unicode)
 * Input method (transliteration and transcription)
 * Tokenization (word segmentation)
@@ -27,8 +27,7 @@ Papers and contributions are encouraged for any work related to Natural Language
 * NLP issues in the analysis of broken texts and uncertain readings
 * Minimal computing in NLP
 
-# Languages of interest include
-But not limited to:
+# Languages of interest include, but are not limited to:
 * Mesopotamia: Sumerian, Akkadian
 * Iran: Elamite, old and middle Persian
 * Levant: Eblaite, Amorite, Aramaic (incl. Mandaic and Syriac), Ancient Hebrew, Phynician, Ugaritic
@@ -42,74 +41,71 @@ But not limited to:
 * Japan: Old Japanese
 
 # Important Dates
-* Submission deadline (suggested by the main conference): July 10, 2023
-* Notification of acceptance (suggested): August 5, 2023
-* Camera-ready paper due (suggested): August 25, 2023
-* Workshop: September 7, 2023
+* Submission deadline (suggested by the main conference): **July 10, 2023**
+* Notification of acceptance (suggested): **August 5, 2023**
+* Camera-ready paper due (suggested): **August 25, 2023**
+* Presentation material due (e.g. poster, video, etc.): :boom: *Do we need this if the modality is hybrid?*
+* Workshop: **September 7, 2023**
+
+All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 # Invited Speakers
-* Philippa Steele (University of Cambridge, UK) (confirmed, sponsored by University of Cambridge)
-* Gabriel Stanovsky (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
+* [Philippa Steele](https://www.classics.cam.ac.uk/directory/philippa-steele) (University of Cambridge, UK) (confirmed, sponsored by University of Cambridge)
+* [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
 * Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
 
 # Submission Guidelines
+
+We welcome two kinds of submissions (:boom: *to be disussed!*) :
+* Long Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
+* Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
+
+Please also note the following:
 * All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section. 
 * Papers must be written in English.
-* Full Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
-* Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 6 pages for content, with 2 additional pages for references.
-
-# Invited speakers
-
-# Modality: Hybrid
+* The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
 
 # Organizers:
-* Dr. Adam Anderson (adamganderson@gmail.com), UC Berkeley, USA
-* Dr. Shai Gordin (shaigo@ariel.ac.il), Ariel University, Israel
-* Dr. Bin Li (lib@njnu.edu.cn), Nanjing Normal University, China
-* Dr. Yudong Liu (yudong.liu@wwu.edu), Western Washington University, USA
-* Dr. Marco C. Passarotti (marco.passarotti@unicatt.it), Università Cattolica del Sacro Cuore, Italy
+* Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson) (adamganderson@gmail.com), UC Berkeley, USA
+* Dr. [Shai Gordin](https://shaigordin.academia.edu/), Ariel University, Israel
+* Dr. [Bin Li](https://www.researchgate.net/profile/Bin-Li-238), Nanjing Normal University, China
+* Dr. [Yudong Liu](https://liuy2.github.io/), Western Washington University, USA
+* Dr. [Marco C. Passarotti](https://publires.unicatt.it/en/persons/marco-carlo-passarotti), Università Cattolica del Sacro Cuore, Italy
 
 
 # Program committee 
-* Itziar Aduriz, University of Barcelona, Spain
-* Tero Alstola, University of Helsinki, Finland (confirmed) 
-* Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan (confirmed)
-* David Bamman, University of California, Berkeley, USA
-* Jonathan Berant, Tel Aviv University, Israel (confirmed)
-* Monica Berti, Leipzig University, Germany (confirmed)
-* Marcel Bollmann, Jönköping University, Sweden
-* Christian Chiarchos, Goethe University Frankfurt, Germany (confirmed)
-* Gregory Crane, Tufts University, USA (confirmed)
-* Sanhong Deng,Nanjing University, P.R. China (confirmed)
-* Minxuan Feng, Nanjing Normal University,  P.R. China (confirmed)
-* Ethan Fetaya, Bar-Ilan University, Israel (confirmed)
-* Robert Gorman, University of Nebraska-Lincoln, USA
-* Toon Van Hal, University of Leuven, Belgium 
-* Renfen Hu, Beijing Normal University,  P.R. China (confirmed)
-* Heidi Jauhiainen, University of Helsinki, Finland (confirmed) 
-* Kyle P. Johnson, Berlin-Brandenburg Academy of Sciences, Germany (confirmed)
-* Orly Lewis, Hebrew University of Jerusalem, Israel (confirmed)
-* Johann-Mattis List, Max Planck Institute for Evolutionary Anthropology, Germany (confirmed)
-* Chao-Lin Liu, National Chengchi University, Taiwan (confirmed)
-* Congjun Long, Chinese Academy of Social Sciences, P.R. China (confirmed)
-* Francesco Mambrini, Università Cattolica del Sacro Cuore, Milan, Italy (confirmed)
-* Hubert Mara, MLU Halle, Germany (confirmed)
-* Martijn Naaijer, University of Copenhagen, Denmark (confirmed)
-* Edoardo M. Ponti, University of Edinburgh
-* Christian M. Prager, University of Bonn, Germany (confirmed)
-* Avital Romach, Yale, USA (confirmed)
-* Luis Sáenz, Ariel University/Heidelberg University, Israel/Germany (confirmed)
-* Aleksi Sahala,  University of Helsinki, Finland 
-* Jivnesh Sandha, IIT Kanpur, India
-* Si Shen,  Nanjing University of Science and Technology, P.R. China (confirmed)
-* Xiaodong Shi, Xiamen University, P.R. China (confirmed)
-* Thea Sommerschield, Ca' Foscari University of Venice, Italy (confirmed)
+* Tero Alstola, University of Helsinki, Finland
+* Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan
+* Jonathan Berant, Tel Aviv University, Israel 
+* Monica Berti, Leipzig University, Germany 
+* Patrick Burns, New York University, USA
+* Christian Chiarchos, Goethe University Frankfurt, Germany
+* Gregory Crane, Tufts University, USA
+* Sanhong Deng,Nanjing University, P.R. China
+* Minxuan Feng, Nanjing Normal University,  P.R. China
+* Ethan Fetaya, Bar-Ilan University, Israel 
+* Toon Van Hal, University of Leuven, Belgium
+* Renfen Hu, Beijing Normal University,  P.R. China 
+* Heidi Jauhiainen, University of Helsinki, Finland
+* Kyle P. Johnson, Berlin-Brandenburg Academy of Sciences, Germany 
+* Orly Lewis, Hebrew University of Jerusalem, Israel 
+* Johann-Mattis List, Max Planck Institute for Evolutionary Anthropology, Germany 
+* Chao-Lin Liu, National Chengchi University, Taiwan 
+* Congjun Long, Chinese Academy of Social Sciences, P.R. China
+* Francesco Mambrini, Università Cattolica del Sacro Cuore, Milan, Italy 
+* Hubert Mara, MLU Halle, Germany
+* Martijn Naaijer, University of Copenhagen, Denmark 
+* Christian M. Prager, University of Bonn, Germany 
+* Avital Romach, Yale, USA
+* Luis Sáenz, Ariel University/Heidelberg University, Israel/Germany 
+* Si Shen,  Nanjing University of Science and Technology, P.R. China
+* Xiaodong Shi, Xiamen University, P.R. China 
+* Thea Sommerschield, Ca' Foscari University of Venice, Italy 
 * Rachele Sprugnoli, Università degli Studi di Parma, Italy 
-* Gabriel Stanovsky, Hebrew University of Jerusalem, Israel (confirmed)
-* Sabine Stoll, University of Zurich, Switzerland
-* Donald Sturgeon, Durham University, UK
-* Francis M. Tyers, Indiana University, USA
-* Niek Veldhuis, University of California, Berkeley, USA
-* Dongbo Wang, Nanjing Agricultural University, P.R. China (confirmed)
+* Gabriel Stanovsky, Hebrew University of Jerusalem, Israel 
+* Niek Veldhuis, University of California, Berkeley, USA 
+* Dongbo Wang, Nanjing Agricultural University, P.R. China
 
-# Review platform:  OpenReview or START
+# Review platform:  OpenReview or START (:boom: *TBD*)
+# Modality: Hybrid (:boom: *TBD*)
+# Contact (:boom: *TBD*)
