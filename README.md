@@ -27,7 +27,7 @@ Papers and contributions are encouraged for any work related to Natural Language
 * NLP issues in the analysis of broken texts and uncertain readings
 * Minimal computing in NLP
 
-# Languages of interest include, but are not limited to:
+### Languages of interest include, but are not limited to:
 * Mesopotamia: Sumerian, Akkadian
 * Iran: Elamite, old and middle Persian
 * Levant: Eblaite, Amorite, Aramaic (incl. Mandaic and Syriac), Ancient Hebrew, Phynician, Ugaritic
@@ -40,11 +40,11 @@ Papers and contributions are encouraged for any work related to Natural Language
 * Mesoamerica: Mayan
 * Japan: Old Japanese
 
-# Important Dates
+# Important Dates (:boom: *TBD*)
 * Submission deadline (suggested by the main conference): **July 10, 2023**
 * Notification of acceptance (suggested): **August 5, 2023**
 * Camera-ready paper due (suggested): **August 25, 2023**
-* Presentation material due (e.g. poster, video, etc.): :boom: *Do we need this if the modality is hybrid?*
+* Presentation material due (e.g. poster, video, etc.): :boom: *TBD*
 * Workshop: **September 7, 2023**
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
@@ -54,9 +54,9 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 * [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
 * Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
 
-# Submission Guidelines
+# Submission Guidelines (:boom: *TBD!*) 
 
-We welcome two kinds of submissions (:boom: *to be disussed!*) :
+We welcome two kinds of submissions:
 * Long Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
 * Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
 
@@ -65,7 +65,7 @@ Please also note the following:
 * Papers must be written in English.
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
 
-# Organizers:
+# Organizing Committee:
 * Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson) (adamganderson@gmail.com), UC Berkeley, USA
 * Dr. [Shai Gordin](https://shaigordin.academia.edu/), Ariel University, Israel
 * Dr. [Bin Li](https://www.researchgate.net/profile/Bin-Li-238), Nanjing Normal University, China
@@ -109,3 +109,4 @@ Please also note the following:
 # Review platform:  OpenReview or START (:boom: *TBD*)
 # Modality: Hybrid (:boom: *TBD*)
 # Contact (:boom: *TBD*)
+# Program (Coming Soon)
