@@ -41,6 +41,17 @@ But not limited to:
 * Mesoamerica: Mayan
 * Japan: Old Japanese
 
+# Important Dates
+* Submission deadline (suggested by the main conference): July 10, 2023
+* Notification of acceptance (suggested): August 5, 2023
+* Camera-ready paper due (suggested): August 25, 2023
+* Workshop: September 7, 2023
+
+# Invited Speakers
+* Philippa Steele (University of Cambridge, UK) (confirmed, sponsored by University of Cambridge)
+* Gabriel Stanovsky (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
+* Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
+
 # Submission Guidelines
 * All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section. 
 * Papers must be written in English.
