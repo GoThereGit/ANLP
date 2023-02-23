@@ -44,7 +44,6 @@ Papers and contributions are encouraged for any work related to Natural Language
 * Submission deadline (suggested by the main conference): **July 10, 2023**
 * Notification of acceptance (suggested): **August 5, 2023**
 * Camera-ready paper due (suggested): **August 25, 2023**
-* Presentation material due (e.g. poster, video, etc.): :boom: *TBD*
 * Workshop: **September 7, 2023**
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
@@ -57,7 +56,7 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 # Submission Guidelines (:boom: *TBD*) 
 
 We welcome two kinds of submissions:
-* Long Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
+* Long Papers must describe original unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
 * Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
 
 Please also note the following:
