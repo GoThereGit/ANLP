@@ -61,9 +61,9 @@ We welcome two kinds of submissions:
 * Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
 
 Please also note the following:
-* All papers must be submitted in PDF format through the conference management system at https://www.softconf.com/ranlp2021/MMTLRL2021/(not sure!!). The papers should follow the format of the main conference, described at the main RANLP website, Submission Guidelines Section. 
-* Papers must be written in English.
+* All papers must be written in English and submitted in PDF format. The submissions will be maintained by the conference management software START. For further instructions, please follow the submission information at the conference website at https://ranlp.org/ranlp2023/.
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
+*  The papers accepted at RANLP and the associated workshops are included in the ACL Anthology. All accepted papers have DOI numbers. The RANLP proceedings are indexed by SCOPUS and DBLP .
 
 # Organizing Committee:
 * Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson) (adamganderson@gmail.com), UC Berkeley, USA
@@ -106,7 +106,6 @@ Please also note the following:
 * Niek Veldhuis, University of California, Berkeley, USA 
 * Dongbo Wang, Nanjing Agricultural University, P.R. China
 
-# Review platform:  OpenReview or START (:boom: *TBD*)
 # Modality: Hybrid (:boom: *TBD*)
 # Contact (:boom: *TBD*)
 # Program (Coming Soon)
