@@ -54,7 +54,7 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 * [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
 * Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
 
-# Submission Guidelines (:boom: *TBD!*) 
+# Submission Guidelines (:boom: *TBD*) 
 
 We welcome two kinds of submissions:
 * Long Papers must describe original unpublished work in any topic area of the workshop. Full papers are limited to 8 pages for content, with 2 additional pages for references.
