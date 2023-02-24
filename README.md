@@ -53,7 +53,7 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 * [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
 * Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
 
-# Submission Guidelines (:boom: *TBD*) 
+# Submission Guidelines (💥 *TBD*) 
 
 We welcome two kinds of submissions:
 * Long Papers must describe original unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
@@ -105,6 +105,7 @@ Please also note the following:
 * Niek Veldhuis, University of California, Berkeley, USA 
 * Dongbo Wang, Nanjing Agricultural University, P.R. China
 
-# Modality: Hybrid (:boom: *TBD*)
-# Contact (:boom: *TBD*)
+# Modality: Hybrid (💥 *TBD*)
+# Contact (💥
+*TBD*)
 # Program (Coming Soon)
