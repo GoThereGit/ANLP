@@ -105,7 +105,6 @@ Please also note the following:
 * Niek Veldhuis, University of California, Berkeley, USA 
 * Dongbo Wang, Nanjing Agricultural University, P.R. China
 
-# Modality: Hybrid (💥 *TBD*)
-# Contact (💥
-*TBD*)
+# Modality: Hybrid (💥*TBD*)
+# Contact (💥*TBD*)
 # Program (Coming Soon)
