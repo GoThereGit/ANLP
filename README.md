@@ -40,7 +40,7 @@ Papers and contributions are encouraged for any work related to Natural Language
 * Mesoamerica: Mayan
 * Japan: Old Japanese
 
-# Important Dates (💥 *TBD*)
+# Important Dates (*TBD*)
 * Submission deadline (suggested by the main conference): **July 10, 2023**
 * Notification of acceptance (suggested): **August 5, 2023**
 * Camera-ready paper due (suggested): **August 25, 2023**
