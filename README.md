@@ -72,7 +72,7 @@ Please also note the following:
 * Dr. [Marco C. Passarotti](https://publires.unicatt.it/en/persons/marco-carlo-passarotti), Università Cattolica del Sacro Cuore, Italy
 
 
-# Program committee 
+# Program Committee 
 * Tero Alstola, University of Helsinki, Finland
 * Masayuki Asahara, National Institute for Japanese Language and Linguistics, Japan
 * Jonathan Berant, Tel Aviv University, Israel 
