@@ -55,12 +55,12 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 # Submission Guidelines (💥 *TBD*) 
 
-We welcome two kinds of submissions:
-* Long Papers must describe original and unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
-* Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
+We welcome two types of submissions:
+* Long Papers that describe original and unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
+* Short Papers that describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
 
 Please also note the following:
-* The papers accepted at RANLP and the associated workshops are included in the ACL Anthology. All accepted papers have DOI numbers. The RANLP proceedings are indexed by SCOPUS and DBLP.
+* The papers accepted will be included in the [ACL Anthology](https://aclanthology.org). 
 * Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please submit your papers in PDF format. 
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
 
