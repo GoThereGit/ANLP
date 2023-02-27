@@ -56,13 +56,14 @@ All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 # Submission Guidelines (💥 *TBD*) 
 
 We welcome two kinds of submissions:
-* Long Papers must describe original unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
+* Long Papers must describe original and unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
 * Short Papers may describe either work in progress or a research proposal. They may also be in the style of a position paper that surveys and criticizes existing literature. Short papers must include clear directions for future research. Submissions of this type are limited to 4 pages for content, with 2 additional pages for references.
 
 Please also note the following:
-* All papers must be written in English and submitted in PDF format. The submissions will be maintained by the conference management software START. For further instructions, please follow the submission information at the conference website at https://ranlp.org/ranlp2023/.
+* The papers accepted at RANLP and the associated workshops are included in the ACL Anthology. All accepted papers have DOI numbers. The RANLP proceedings are indexed by SCOPUS and DBLP.
+* Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please submit your papers in PDF format. 
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
-*  The papers accepted at RANLP and the associated workshops are included in the ACL Anthology. All accepted papers have DOI numbers. The RANLP proceedings are indexed by SCOPUS and DBLP .
+###Submission can be made through this link (coming soon)
 
 # Organizing Committee:
 * Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson) (adamganderson@gmail.com), UC Berkeley, USA
@@ -106,5 +107,6 @@ Please also note the following:
 * Dongbo Wang, Nanjing Agricultural University, P.R. China
 
 # Modality: Hybrid (💥*TBD*)
-# Contact (💥*TBD*)
+# Contact: 
+<ancientnlp@gmail.com> for workshop-special inquires and <2023@ranlp.org> for general inquiries. 
 # Program (Coming Soon)
