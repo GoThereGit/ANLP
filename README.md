@@ -67,7 +67,7 @@ Please also note the following:
 ### Submission can be made through this link (coming soon)
 
 # Organizing Committee:
-* Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson) (adamganderson@gmail.com), UC Berkeley, USA
+* Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson), UC Berkeley, USA
 * Dr. [Shai Gordin](https://shaigordin.academia.edu/), Ariel University, Israel
 * Dr. [Bin Li](https://www.researchgate.net/profile/Bin-Li-238), Nanjing Normal University, China
 * Dr. [Yudong Liu](https://liuy2.github.io/), Western Washington University, USA
