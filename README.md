@@ -63,6 +63,7 @@ Please also note the following:
 * The papers accepted at RANLP and the associated workshops are included in the ACL Anthology. All accepted papers have DOI numbers. The RANLP proceedings are indexed by SCOPUS and DBLP.
 * Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please submit your papers in PDF format. 
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
+
 ###Submission can be made through this link (coming soon)
 
 # Organizing Committee:
