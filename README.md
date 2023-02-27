@@ -109,5 +109,5 @@ Please also note the following:
 
 # Modality: Hybrid (💥*TBD*)
 # Contact: 
-<ancientnlp@gmail.com> for workshop-special inquires and <2023@ranlp.org> for general inquiries. 
+<ancientnlp@gmail.com> for workshop-specific inquires and <2023@ranlp.org> for general inquiries. 
 # Program (Coming Soon)
