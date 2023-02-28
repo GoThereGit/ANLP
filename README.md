@@ -82,31 +82,31 @@ Please also note the following:
 * Patrick Burns, New York University, USA
 * Christian Chiarchos, Goethe University Frankfurt, Germany
 * Gregory Crane, Tufts University, USA
-* Sanhong Deng,Nanjing University, P.R. China
-* Minxuan Feng, Nanjing Normal University,  P.R. China
+* Sanhong Deng,Nanjing University, China
+* Minxuan Feng, Nanjing Normal University, China
 * Ethan Fetaya, Bar-Ilan University, Israel 
 * Toon Van Hal, University of Leuven, Belgium
-* Renfen Hu, Beijing Normal University,  P.R. China 
+* Renfen Hu, Beijing Normal University, China 
 * Heidi Jauhiainen, University of Helsinki, Finland
 * Kyle P. Johnson, Berlin-Brandenburg Academy of Sciences, Germany 
 * Orly Lewis, Hebrew University of Jerusalem, Israel 
 * Johann-Mattis List, Max Planck Institute for Evolutionary Anthropology, Germany 
-* Chao-Lin Liu, National Chengchi University, Taiwan 
-* Congjun Long, Chinese Academy of Social Sciences, P.R. China
+* Chao-Lin Liu, National Chengchi University, Taiwan, China
+* Congjun Long, Chinese Academy of Social Sciences, China
 * Francesco Mambrini, Università Cattolica del Sacro Cuore, Milan, Italy 
 * Hubert Mara, MLU Halle, Germany
 * Martijn Naaijer, University of Copenhagen, Denmark 
 * Christian M. Prager, University of Bonn, Germany 
 * Avital Romach, Yale, USA
 * Luis Sáenz, Ariel University/Heidelberg University, Israel/Germany 
-* Si Shen,  Nanjing University of Science and Technology, P.R. China
-* Xiaodong Shi, Xiamen University, P.R. China 
-* Qi Su, Peking University,  P.R. China 
+* Si Shen,  Nanjing University of Science and Technology, China
+* Xiaodong Shi, Xiamen University, China 
+* Qi Su, Peking University,  China 
 * Thea Sommerschield, Ca' Foscari University of Venice, Italy 
 * Rachele Sprugnoli, Università degli Studi di Parma, Italy 
 * Gabriel Stanovsky, Hebrew University of Jerusalem, Israel 
 * Niek Veldhuis, University of California, Berkeley, USA 
-* Dongbo Wang, Nanjing Agricultural University, P.R. China
+* Dongbo Wang, Nanjing Agricultural University, China
 
 # Modality: Hybrid (💥*TBD*)
 # Contact: 
