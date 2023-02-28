@@ -101,6 +101,7 @@ Please also note the following:
 * Luis Sáenz, Ariel University/Heidelberg University, Israel/Germany 
 * Si Shen,  Nanjing University of Science and Technology, P.R. China
 * Xiaodong Shi, Xiamen University, P.R. China 
+* Qi Su, Peking University,  P.R. China 
 * Thea Sommerschield, Ca' Foscari University of Venice, Italy 
 * Rachele Sprugnoli, Università degli Studi di Parma, Italy 
 * Gabriel Stanovsky, Hebrew University of Jerusalem, Israel 
