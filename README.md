@@ -64,7 +64,7 @@ Please also note the following:
 * Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please submit your papers in PDF format. 
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
 
-### Submission can be made through this link (**coming soon**)
+### Submission can be made through this link: https://softconf.com/ranlp23/ALP/
 
 # Organizing Committee:
 * Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson), UC Berkeley, USA
