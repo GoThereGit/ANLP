@@ -40,20 +40,20 @@ Papers and contributions are encouraged for any work related to Natural Language
 * Mesoamerica: Mayan
 * Japan: Old Japanese
 
-# Important Dates (💥*TBD*)
-* Submission deadline (suggested by the main conference): **July 10, 2023**
-* Notification of acceptance (suggested): **August 5, 2023**
-* Camera-ready paper due (suggested): **August 25, 2023**
+# Important Dates
+* Submission deadline: **July 3, 2023**
+* Notification of acceptance: **August 5, 2023**
+* Camera-ready paper due: **August 25, 2023**
 * Workshop: **September 7, 2023**
 
 All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).
 
 # Invited Speakers
-* [Philippa Steele](https://www.classics.cam.ac.uk/directory/philippa-steele) (University of Cambridge, UK) (confirmed, sponsored by University of Cambridge)
-* [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) (confirmed, sponsored by Hebrew University)
-* Zhiwei Feng (Xinjiang University, P.R. China) (confirmed, sponsored by Nanjing Normal University)
+* [Philippa Steele](https://www.classics.cam.ac.uk/directory/philippa-steele) (University of Cambridge, UK) 
+* [Gabriel Stanovsky](https://gabrielstanovsky.github.io) (Hebrew University of Jerusalem, Israel) 
+* Zhiwei Feng (Xinjiang University, P.R. China) 
 
-# Submission Guidelines (💥 *TBD*) 
+# Submission Guidelines 
 
 We welcome two types of submissions:
 * Long Papers that describe original and unpublished work in any topic area of the workshop. Long papers are limited to 8 pages for content, with 2 additional pages for references.
@@ -64,7 +64,7 @@ Please also note the following:
 * Paper submissions must use the official ACL style templates, which are available from [here](https://github.com/acl-org/acl-style-files) (Latex and Word). Please submit your papers in PDF format. 
 * The review will be double-blind. Please do not include any self-identifying information in the submission. This includes anonymizing the already-published work by removing acknowledgments, self-citations, etc.
 
-### Submission can be made through this link (coming soon)
+### Submission can be made through this link (**coming soon**)
 
 # Organizing Committee:
 * Dr. [Adam Anderson](https://bids.berkeley.edu/people/adam-g-anderson), UC Berkeley, USA
@@ -108,7 +108,7 @@ Please also note the following:
 * Niek Veldhuis, University of California, Berkeley, USA 
 * Dongbo Wang, Nanjing Agricultural University, China
 
-# Modality: Hybrid (💥*TBD*)
+# Modality: Hybrid
 # Contact: 
 <ancientnlp@gmail.com> for workshop-specific inquires and <2023@ranlp.org> for general inquiries. 
 # Program (Coming Soon)
