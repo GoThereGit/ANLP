@@ -697,6 +697,10 @@ footer.sticky-bottom {
     vertical-align: middle
 }
 
+.hlalert {
+    color: red !important;
+}
+
 .publications ol.bibliography li .badges span:hover {
     text-decoration: underline
 }
