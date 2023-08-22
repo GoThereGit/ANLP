@@ -20,6 +20,22 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark" />
     <script src="/alp2023/assets/js/theme.js"></script>
     <script src="/alp2023/assets/js/dark_mode.js"></script>
+    <style>
+        h5 {
+            color: #4F5559;
+            font-weight: 550;
+        }
+        
+        .floatimg {
+            float: right;
+            width: 200px;
+            height: 200px;
+            margin-left: 20px;
+            border-radius: 100%;
+            border: 4px solid white;
+            box-shadow: 0 0 0 1px #505559;
+        }
+    </style>
 </head>
 
 <body class="fixed-top-nav sticky-bottom-footer">
@@ -31,12 +47,12 @@
                 </a>
                 <div class="collapse navbar-collapse text-left" id="navbarNav">
                     <ul class="navbar-nav mr-auto flex-nowrap">
-                         <li class="nav-item "> <a class="nav-link" href="/alp2023/">Home</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/">Home</a> </li>
                         <li class="nav-item "> <a class="nav-link" href="/alp2023/call_for_papers/">Call for papers</a> </li>
                         <li class="nav-item "> <a class="nav-link" href="/alp2023/organization/">Organization</a> </li>
                         <li class="nav-item "> <a class="nav-link" href="/alp2023/accepted_papers/">Accepted papers</a> </li>
                         <li class="nav-item "> <a class="nav-link" href="/alp2023/program/">Program</a> </li>
-                         <li class="nav-item "> <a class="nav-link" href="/alp2023/instructions_for_presenters/">Instructions for presenters</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/instructions_for_presenters/">Instructions for presenters</a> </li>
                         <li class="nav-item active"> <a class="nav-link" href="/alp2023/invited_talks/">Invited talks<span class="sr-only">(current)</span></a> </li>
                         <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="fas fa-moon"></i> <i class="fas fa-sun"></i> </button> </li>
                     </ul>
@@ -47,14 +63,59 @@
         <div class="post">
 
             <article>
-                <h3 id="invited talks">Invited speakers</h3>
+                <h5 id="invited talks">Processing of a ‘living’ ancient language: Issues and Insights from Chinese</h5>
+
+                <div>
+                    <img src="img/profile_huang.png" class="floatimg">
+                    <ul>
+                        <li><b>Speaker: </b><a href="https://research.polyu.edu.hk/en/persons/chu-ren-huang">Chu-ren Huang</a> (The HongKong Polytechnic University, P.R. China)</li>
+
+                        <li><b>Abstract: </b>An inherited ancient language is an ancient language that has a living language as its direct descendent. In this talk, we further define a living ancient language as an inherited language that has some significant
+                            linguistic components retained by its living descendant. Ancient Chinese, with its orthographic system retained in modern Mandarin, is a clear example. As such, the processing of a living ancient language poses unique challenges
+                            and opportunities at the same time. The common challenges include how to differentiate an ancient language from a similar language or a variety, how to differentiate descendants from different periods, the likely occurrences
+                            of faux amis, and how to deal with ‘code mixing’ of the ancient language and its living descendant when the codes of the two languages are very similar or even identical. The challenges unique to Chinese include that identical
+                            character strings may need to be segmented or chunked differently in ancient and living languages. The unique opportunities include the use of the retained component as constant to identify changes and variations, the possibility
+                            to apply extrapolation (when an adjacent model is known) and interpolation (when prior and later models are known) to build language models, and the application of an end-to-end (instead of point-to-point) study of the diachronic
+                            changes through time. In this talk, I will elaborate on these important issues with an emphasis on several examples of how these unique opportunities are leveraged to inform us of the cultural, environmental, and societal changes
+                            that may (or may not) have been documented historically.
+
+                    </ul>
+                </div>
                 <p><br></p>
+
+                <h5 id="invited talks">When the past meets the future at Odessus</h5>
+                <div>
+                    <img src="img/profile_thea.jpg" class="floatimg">
+                    <ul>
+                        <li><b>Speaker: </b><a href="https://theasommerschield.it/index.html">Thea Sommerschield</a> (Ca’ Foscari University of Venice, Italy)
+                            <ul>
+                                <li><b>Bio: </b>Thea Sommerschield is a Marie Skłodowska-Curie fellow at Ca’ Foscari University of Venice. Her research uses machine learning to study the epigraphic cultures of the ancient Mediterranean world. Since obtaining
+                                    her DPhil in Ancient History (University of Oxford), she has been the Ralegh Radford Rome Awardee at the British School at Rome, Fellow in Hellenic Studies at Harvard’s CHS and Research Innovator at Google Cloud. She
+                                    co-led the Pythia (EMNLP, 2019) and Ithaca (Nature, 2022) projects, and works extensively on Sicilian epigraphy.
+                                </li>
+                            </ul>
+                        </li>
+                        <li><b>Abstract: </b>Ancient languages preserve the cultures and histories of the past. However, their study is fraught with difficulties, and experts must tackle a range of challenging tasks, from deciphering lost languages to restoring
+                            damaged inscriptions. Technological aids have long supported these efforts, yet recent advances in Machine Learning have catalysed revolutionary shifts in the Humanities, akin to the impact of microscopes and telescopes on
+                            scientific exploration. This talk will survey some of the main tasks, trends and transformations in the multifaceted field of Machine Learning for Ancient Languages, inspired and guided by my personal experience in this domain.
+                            We will retrace the progress in ML techniques now at the disposal of historical researchers, and chart some of the main contributions to this dynamic field. We will address some of the many extant challenges (such as bias,
+                            interpretable outputs and uneven digitisation standards), and discuss promising directions for future advancement. <br> The main takeaway of this talk is the pivotal role of active collaboration between specialists from both
+                            domains in producing impactful and compelling scholarship.
+                        </li>
+                        <li><b>Mode of attendance: </b>Virtual</li>
+                    </ul>
+                </div>
+                <p><br></p>
+
+
+                <h5 id="invited talks">Title</h5>
                 <ul>
-                    <li><a href="https://research.polyu.edu.hk/en/persons/chu-ren-huang">Chu-ren Huang</a> (The HongKong Polytechnic University, P.R. China)</li>
-                    <li><a href="https://theasommerschield.it/index.html">Thea Sommerschield</a> (Ca’ Foscari University of Venice, Italy)</li>
-                    <li><a href="https://gabrielstanovsky.github.io">Gabriel Stanovsky</a> (Hebrew University of Jerusalem, Israel)</li>
-               
+                    <li><b>Speaker: </b><a href="https://gabrielstanovsky.github.io">Gabriel Stanovsky</a> (Hebrew University of Jerusalem, Israel)</li>
+                    <li><b>Abstract: </b></li>
                 </ul>
+
+
+
             </article>
             <ul class="post-list"> </ul>
         </div>
