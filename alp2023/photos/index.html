@@ -1,1 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, maximum-scale=5.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Photos | ALP 2023</title>
+    <meta name="author" content="test1 test2 test3">
+    <meta name="description" content="Click &lt;a href='https://softconf.com/iwcs2023/dmr2023'&gt;&lt;b&gt;&lt;u&gt;here&lt;/u&gt;&lt;/b&gt;&lt;/a&gt; to submit your paper">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700%7CRoboto+Slab:100,300,400,500,700%7CMaterial+Icons">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+    <link rel="shortcut icon" href="/alp2023/assets/img/logo.ico">
+    <link rel="stylesheet" href="/alp2023/assets/css/main.css">
+    <link rel="canonical" href="https://dmr2023.github.io/submission/">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+    <script src="/alp2023/assets/js/theme.js"></script>
+    <script src="/alp2023/assets/js/dark_mode.js"></script>
+    <style>
+        article {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        
+        .pho {
+            height: 200px;
+            border: 4px solid white;
+            box-shadow: 0 0 0 1px #505559;
+            transition: all 200ms !important;
+            margin: 20px 0px;
+        }
+        
+        .pho :hover {
+            /* box-shadow: 0 0 0 4px #AC644B; */
+            transform: scale(1.04);
+        }
+        
+        .pho img {
+            height: 100%;
+            cursor: pointer;
+            transition: all 300ms;
+        }
+        
+        .pho img:hover {
+            /* transform: scale(1.02); */
+        }
+        
+        #mask {
+            width: 100%;
+            height: 100%;
+            background-color: #000000cf;
+            backdrop-filter: blur(3px);
+            position: fixed;
+            left: 0;
+            top: 0;
+            z-index: 1099;
+            display: none;
+            /* display: flex; */
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .mask_but {
+            opacity: 0.7;
+            cursor: pointer;
+            transition: all 300ms;
+        }
+        
+        .mask_but:hover {
+            opacity: 1;
+        }
+        
+        #mask_div {
+            height: 70%;
+            margin: 0 80px;
+            position: relative;
+        }
+    </style>
+</head>
+
+<body class="fixed-top-nav sticky-bottom-footer">
+    <div id="mask">
+        <div class="mask_but" style="width: 50%;height: 100%;position: absolute;left: 0;top: 0;z-index: -1;display: flex;align-items: center;justify-content: end;" onclick="Back()"></div>
+        <img class="mask_but" src="icons/back.png" width="40px" onclick="Back()">
+        <div id="mask_div">
+            <img src="imgs/WechatIMG6054.jpg" height="100%" id="main_pho">
+            <img src="icons/alp.png" height="10%" style="position: absolute;right: 2%;bottom: 6%;opacity: 0.4;">
+        </div>
+        <div class="mask_but" style="width: 50%;height: 100%;position: absolute;right: 0;top: 0;z-index: -1;display: flex;align-items: center;justify-content: end;" onclick="Forward()"></div>
+        <img class="mask_but" src="icons/forward.png" width="40px" onclick="Forward()">
+
+        <img class="mask_but" src="icons/close.png" width="30px" style="position: absolute;right: 10px;top: 10px;" onclick="Close()">
+    </div>
+    <header>
+        <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="/alp2023/">
+                    <img src="/alp2023/assets/img/alp-logo-min.svg" width="30" height="30" class="d-inline-block align-top" alt=""><b>ALP 2023</b>
+                </a>
+                <div class="collapse navbar-collapse text-left" id="navbarNav">
+                    <ul class="navbar-nav mr-auto flex-nowrap">
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/">Home </a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/call_for_papers/">Call for papers<span class="sr-only">(current)</span></a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/organization/">Organization</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/accepted_papers/">Accepted papers</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/program/">Program</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/instructions_for_presenters/">Instructions for presenters</a> </li>
+                        <li class="nav-item "> <a class="nav-link" href="/alp2023/invited_talks/">Invited talks</a> </li>
+                        <li class="nav-item active"> <a class="nav-link" href="/alp2023/phpotos/">Photos</a> </li>
+                        <li class="toggle-container"> <button id="light-toggle" title="Change theme"> <i class="fas fa-moon"></i> <i class="fas fa-sun"></i> </button> </li>
+                    </ul>
+                </div>
+            </div>
+        </nav> <progress id="progress" value="0"> <div class="progress-container"> <span class="progress-bar"></span> </div> </progress> </header>
+    <div class="container mt-5">
+        <div class="post">
+            <article>
+                <div class="pho"><img src="imgs/WechatIMG6054.jpg"></div>
+                <div class="pho"><img src="imgs/WechatIMG6052.jpg"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_14.22.45.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_19.31.00.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_22.15.03.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.22.27.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.29.26.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_20.05.11.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_15.18.46.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.15.56.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_14.59.09.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_15.30.09.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.33.22.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_21.38.26.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_16.26.48.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_15.44.01.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_20.35.02.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_17.01.45.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.26.39.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_16.30.23.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_21.51.58.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.28.24.png"></div>
+                <div class="pho"><img src="imgs/WechatIMG6091.jpg"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_16.50.11.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.51.37.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-10_23.29.05.png"></div>
+                <div class="pho"><img src="imgs/iShot_2023-09-08_14.06.14.png"></div>
+            </article>
+        </div>
+    </div>
+    <footer class="sticky-bottom mt-5">
+        <div class="container"> Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Last updated: February 27, 2023. </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script defer src="/alp2023/assets/js/masonry.js" type="text/javascript"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+    <script defer src="/alp2023/assets/js/zoom.js"></script>
+    <script defer src="/alp2023/assets/js/common.js"></script>
+    <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+    <script async src="https://badge.dimensions.ai/badge.js"></script>
+    <script type="text/javascript">
+        window.MathJax = {
+            tex: {
+                tags: "ams"
+            }
+        };
+    </script>
+    <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+    <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script type="text/javascript">
+        function progressBarSetup() {
+            "max" in document.createElement("progress") ? (initializeProgressElement(), $(document).on("scroll", function() {
+                progressBar.attr({
+                    value: getCurrentScrollPosition()
+                })
+            }), $(window).on("resize", initializeProgressElement)) : (resizeProgressBar(), $(document).on("scroll", resizeProgressBar), $(window).on("resize", resizeProgressBar))
+        }
+
+        function getCurrentScrollPosition() {
+            return $(window).scrollTop()
+        }
+
+        function initializeProgressElement() {
+            let e = $("#navbar").outerHeight(!0);
+            $("body").css({
+                "padding-top": e
+            }), $("progress-container").css({
+                "padding-top": e
+            }), progressBar.css({
+                top: e
+            }), progressBar.attr({
+                max: getDistanceToScroll(),
+                value: getCurrentScrollPosition()
+            })
+        }
+
+        function getDistanceToScroll() {
+            return $(document).height() - $(window).height()
+        }
+
+        function resizeProgressBar() {
+            progressBar.css({
+                width: getWidthPercentage() + "%"
+            })
+        }
+
+        function getWidthPercentage() {
+            return getCurrentScrollPosition() / getDistanceToScroll() * 100
+        }
+        const progressBar = $("#progress");
+        window.onload = function() {
+            setTimeout(progressBarSetup, 50)
+        };
+    </script>
+</body>
+
+<script type="text/javascript">
+    // my js
+    var MainPho = document.getElementById("main_pho");
+    var phos = document.getElementsByClassName("pho");
+
+    // 构建所有图片路径
+    paths = []
+    for (i = 0; i < phos.length; i++) {
+        temp = phos[i].children;
+        temp[0].setAttribute("onclick", "Open(this)")
+        paths.push(temp[0].getAttribute("src"));
+    }
+
+    function GetId() {
+        path = MainPho.getAttribute("src");
+        for (j = 0; j < paths.length; j++) {
+            if (path == paths[j]) {
+                return j;
+            }
+        }
+    }
+
+    function Back() {
+        now = GetId() - 1;
+        if (now < 0) {
+            now = paths.length - 1;
+        }
+        MainPho.setAttribute("src", paths[now]);
+    }
+
+    function Forward() {
+        now = GetId() + 1;
+        if (now > paths.length - 1) {
+            now = 0;
+        }
+        MainPho.setAttribute("src", paths[now]);
+    }
+
+    function Open(ele) {
+        main_path = ele.getAttribute("src");
+        MainPho.setAttribute("src", main_path);
+        document.getElementById("mask").style.display = "flex";
+    }
+
+    function Close() {
+        document.getElementById("mask").style.display = "none";
+    }
+</script>
+
+</html>
