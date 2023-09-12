@@ -34,6 +34,9 @@
             box-shadow: 0 0 0 1px #505559;
             transition: all 200ms !important;
             margin: 20px 0px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         
         .pho :hover {
@@ -42,9 +45,14 @@
         }
         
         .pho img {
-            height: 100%;
+            height: calc(100% - 20px);
             cursor: pointer;
             transition: all 300ms;
+        }
+        
+        .pho div {
+            text-align: center;
+            font-weight: 600;
         }
         
         .pho img:hover {
@@ -81,6 +89,17 @@
             margin: 0 80px;
             position: relative;
         }
+        
+        #mask_div div {
+            position: absolute;
+            left: 0;
+            top: -60px;
+            color: white;
+            text-align: center;
+            width: 100%;
+            font-size: 36px;
+            font-weight: 600;
+        }
     </style>
 </head>
 
@@ -89,6 +108,7 @@
         <div class="mask_but" style="width: 50%;height: 100%;position: absolute;left: 0;top: 0;z-index: -1;display: flex;align-items: center;justify-content: end;" onclick="Back()"></div>
         <img class="mask_but" src="icons/back.png" width="40px" onclick="Back()">
         <div id="mask_div">
+            <div id="main_title">test</div>
             <img src="https://www.dhbase.com/codehub/images/alp/WechatIMG6054.jpg" height="100%" id="main_pho">
             <img src="icons/alp.png" height="10%" style="position: absolute;right: 2%;bottom: 6%;opacity: 0.4;">
         </div>
@@ -121,33 +141,93 @@
     <div class="container mt-5">
         <div class="post">
             <article>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/WechatIMG6054.jpg"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/WechatIMG6052.jpg"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_14.22.45.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_19.31.00.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_22.15.03.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.22.27.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.29.26.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_20.05.11.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_15.18.46.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.15.56.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_14.59.09.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_15.30.09.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.33.22.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_21.38.26.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_16.26.48.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_15.44.01.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_20.35.02.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_17.01.45.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.26.39.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_16.30.23.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_21.51.58.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.28.24.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/WechatIMG6091.jpg"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_16.50.11.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.51.37.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-10_23.29.05.png"></div>
-                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/iShot_2023-09-08_14.06.14.png"></div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Group Photo.jpg">
+                    <div>Group Photo</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Yudong Liu and Stav Klein.jpg">
+                    <div>Yudong Liu and Stav Klein</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Chu-ren Huang.png">
+                    <div>Chu-ren Huang</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Thea Sommerschield.png">
+                    <div>Thea Sommerschield</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Gabriel Stanovsky.png">
+                    <div>Gabriel Stanovsky</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Bin Li.png">
+                    <div>Bin Li</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Charlie Cowen-Breen.png">
+                    <div>Charlie Cowen-Breen</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Shai Gordin.png">
+                    <div>Shai Gordin</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Gianluca Vico.png">
+                    <div>Gianluca Vico</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Kevin Krahn.png">
+                    <div>Kevin Krahn</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Ellie Bennett.png">
+                    <div>Ellie Bennett</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Alek Keersmaekers.png">
+                    <div>Alek Keersmaekers</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Chiara Palladino.png">
+                    <div>Chiara Palladino</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Bo An.png">
+                    <div>Bo An</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/PowerPoint.png">
+                    <div>PowerPoint</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Luis Saenz.png">
+                    <div>Luis Saenz</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Silvia Stopponi.png">
+                    <div>Silvia Stopponi</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Lisa Mischer.png">
+                    <div>Lisa Mischer</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Federica Gamba.png">
+                    <div>Federica Gamba</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Barbara Graziosi.png">
+                    <div>Barbara Graziosi</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Creston Brooks.png">
+                    <div>Creston Brooks</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Frederick Riemenschneider.png">
+                    <div>Frederick Riemenschneider</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Bolin Chang.jpg">
+                    <div>Bolin Chang</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Johannes Haubold.png">
+                    <div>Johannes Haubold</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Aleksi Sahala.png">
+                    <div>Aleksi Sahala</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Ercong Nie.png">
+                    <div>Ercong Nie</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Marijke Beersmans.png">
+                    <div>Marijke Beersmans</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Martijn Naaijer.png">
+                    <div>Martijn Naaijer</div>
+                </div>
+                <div class="pho"><img src="https://www.dhbase.com/codehub/images/alp/Conference Room.png">
+                    <div>Conference Room</div>
+                </div>
             </article>
         </div>
     </div>
@@ -224,6 +304,7 @@
 <script type="text/javascript">
     // my js
     var MainPho = document.getElementById("main_pho");
+    var MainTitle = document.getElementById("main_title");
     var phos = document.getElementsByClassName("pho");
 
     // 构建所有图片路径
@@ -243,12 +324,21 @@
         }
     }
 
+    function GetTitle(path) {
+        temp = path.split("/");
+        title = temp[temp.length - 1];
+        title = title.replace(".png", "");
+        title = title.replace(".jpg", "");
+        return title;
+    }
+
     function Back() {
         now = GetId() - 1;
         if (now < 0) {
             now = paths.length - 1;
         }
         MainPho.setAttribute("src", paths[now]);
+        MainTitle.innerText = GetTitle(paths[now]);
     }
 
     function Forward() {
@@ -257,12 +347,14 @@
             now = 0;
         }
         MainPho.setAttribute("src", paths[now]);
+        MainTitle.innerText = GetTitle(paths[now]);
     }
 
     function Open(ele) {
         main_path = ele.getAttribute("src");
         MainPho.setAttribute("src", main_path);
         document.getElementById("mask").style.display = "flex";
+        MainTitle.innerText = GetTitle(main_path);
     }
 
     function Close() {
