@@ -1,0 +1,10 @@
+.container { max-width: 1100px; }
+.workshop-logo { max-width: 100%; height: auto; }
+.notice { padding: 1rem; border-left: 4px solid var(--global-theme-color); background: var(--global-code-bg-color); }
+.table { color: var(--global-text-color); }
+.table th, .table td { border-color: var(--global-divider-color); }
+#navbar .navbar-nav { flex-wrap: wrap; }
+#contact + p { overflow-wrap: anywhere; }
+@media (max-width: 991.98px) { #navbar .nav-link { white-space: normal; } }
+#navbar { background: var(--global-bg-color); }
+#navbar .toggle-container { padding-bottom: .5rem; }
