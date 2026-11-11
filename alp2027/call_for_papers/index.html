@@ -95,85 +95,59 @@
 <h3 id="co-located-with-acl-2027">Co-located with ACL 2027 in August 2027<br>
 @Kyoto, Japan</h3>
 <p>One-day workshop; exact date to be announced.</p>
-<p>Ancient languages preserve humanity’s earliest recorded intellectual and cultural achievements, yet they remain among the most challenging targets for language technologies. Progress is constrained by structural difficulties intrinsic to philological research: scarce and non-growing corpora, damaged and fragmentary textual artefacts, limited expert annotation concentrated in a small number of institutions, absence of native speakers, and non-Latin, non-alphabetic writing systems with unstable Unicode and input conventions. Meaningful advances require methods tailored for low-resource, high-expertise multimodal scenarios, alongside evaluation metrics that distinguish genuine philological progress from fluent yet unverifiable model outputs.</p>
-<p>ALP 2027 is the third edition of the Ancient Language Processing workshop series. It builds upon ALP 2023 (co-located with RANLP 2023, Varna, Bulgaria) and ALP 2025 (co-located with NAACL 2025, Albuquerque, USA). It complements related events including Ancient Language Translation (ALT), ML4AL, and the bi-yearly LT4HALA workshop series. ALP covers ancient languages and scripts from the emergence of writing around <strong>3400 BCE up to 800 CE</strong> across global civilizations.</p>
-<p>This one-day workshop will bring together computational linguists, philologists, archaeologists, digital-humanities researchers, and heritage-sector practitioners. We invite original research papers, resource descriptions, position papers, and shared-task system papers. Accepted papers will appear in the ACL Anthology proceedings.</p>
-<h3 id="themes">Themes</h3>
-<p>We invite submissions organized around four primary themes, together with additional related topics:</p>
-<ol>
-<li>
-<strong>Evaluation under scarcity:</strong> Benchmarks, metrics and shared-task design for small, contested test sets derived from scholarly reconstructed text editions.</li>
-<li>
-<strong>Multimodal and visual processing of scripts:</strong> OCR / handwritten-text recognition for complex ancient scripts, sign detection and segmentation, palaeographic analysis, joint modelling of texts and their physical carrier artefacts.</li>
-<li>
-<strong>Large and small models within philological workflows:</strong> Instruction-tuned and agent-based pipelines for lemmatisation, text restoration, dating and translation; comparisons with task-specific small-scale models; emphasis on output verifiability and provenance of machine-generated readings.</li>
-<li>
-<strong>Data governance and reproducibility:</strong> Licensing, linked open data, minimal-computing approaches, and data bias for research working on the cultural heritage of external communities.</li>
-</ol>
-<p>Additional topics of interest include but are not limited to: character-set and Unicode challenges; transliteration and input methods; tokenisation; morphological, syntactic and semantic analysis; linguistic linked open data; machine translation; corpus building and annotation; handling fragmentary and uncertain readings; NLP applications for literary and historical philology.</p>
-<h3 id="languages-of-interest">Languages of interest</h3>
-<p>Languages of interest span Mesopotamia, Iran, the Levant, Anatolia, Egypt, the Mediterranean, Arabia, South Asia, East Asia and Mesoamerica, including but not limited to Sumerian, Akkadian, Ancient Egyptian, Hittite, Ancient Greek, Latin, Sanskrit, Literary Chinese, Old Tibetan, Old Japanese, and Mayan.</p>
-<h3 id="shared-tasks">Shared Tasks</h3>
-<h3 id="evacun">EvaCun 2027</h3>
-<p>
-<strong>End-to-end OCR for cuneiform languages.</strong> Participants produce full digital transliteration from composite 2-D tablet imagery, focusing primarily on second-to-first-millennium-BCE Akkadian with optional extensions to Sumerian. Two tracks are offered: a VLM-only track and an open-architecture track. Evaluation metrics include CER, WER, exact-match and segmentation-quality scores, plus downstream MT-based secondary assessment.</p>
-<h3 id="evahan">EvaHan 2027</h3>
-<p>
-<strong>Ancient-Chinese text-difficulty grading</strong>, the first shared task for classifying classical-Chinese prose and poetry into difficulty levels. EvaHan is an established evaluation series for NLP tools for pre-modern Chinese.</p>
-<h3 id="submission-types">Submission Types &amp; Format Requirements</h3>
-<p>All submissions must follow the <a href="https://github.com/acl-org/acl-style-files">official ACL LaTeX style files</a>. Submissions are <strong>double-blind reviewed</strong>; author information must be omitted from the submitted PDF.</p>
+<p>The Third Workshop on Ancient Language Processing (ALP 2027) is an official affiliated workshop of ACL 2027 and will take place alongside the main conference in Kyoto, Japan, in August 2027. This preliminary call invites submissions from researchers in computational linguistics, linguistics, ancient language studies, classical philology, history, philosophy, archaeology, digital humanities, and related fields.</p>
+<h3 id="workshop-overview">Workshop Overview</h3>
+<p>Ancient languages preserve humanity’s earliest written records and intellectual and cultural achievements. They are also among the most challenging low-resource areas of natural language processing. ALP brings together computational research and traditional philology to develop methods and build a community around ancient languages and writing systems, from the emergence of writing around <strong>3400 BCE to 800 CE</strong>.</p>
+<h3 id="previous-workshops">Previous Workshops</h3>
 <ul>
-<li>
-<strong>Long papers:</strong> Original mature research work — maximum 8 pages of main content; unlimited pages for references and appendices.</li>
-<li>
-<strong>Short papers:</strong> Work-in-progress, position papers, resource descriptions, pilot studies — maximum 4 pages of main content; unlimited pages for references and appendices.</li>
-<li>
-<strong>Shared-task system-description papers:</strong> Reports describing systems submitted to EvaCun 2027 or EvaHan 2027. Page limits follow short-paper guidelines.</li>
+<li><a href="/alp2023/">ALP 2023 @ RANLP 2023</a> — Varna, Bulgaria. The workshop accepted 25 papers covering more than 14 ancient languages.</li>
+<li><a href="/alp2025/">ALP 2025 @ NAACL 2025</a> — Albuquerque, USA. The workshop accepted 33 papers covering over ten languages, including Sumerian, Akkadian, Ancient Egyptian, and Classical Chinese.</li>
 </ul>
-<p>Submissions must describe unpublished original work and must not be under concurrent submission to other venues. Accepted papers will be presented as oral presentations or posters within the one-day workshop programme, and will appear in the ACL Anthology proceedings.</p>
+<h3 id="themes">Themes</h3>
+<p>We invite submissions addressing four core themes and welcome exploratory work on related topics:</p>
+<ol>
+<li><strong>Evaluation under data scarcity:</strong> Design of benchmarks, metrics, and shared tasks for small, contested test sets built on scholarly text editions.</li>
+<li><strong>Multimodal and visual processing of writing systems:</strong> OCR and handwritten text recognition for complex scripts, sign detection and segmentation, palaeographic analysis, and joint modelling of texts and their carrier artefacts.</li>
+<li><strong>Large and small models in linguistic and philological workflows:</strong> Instruction-tuned and agent-based pipelines for lemmatization, text restoration, dating, and translation; comparison with task-specific small models; verifiability of generated outputs and provenance tracking.</li>
+<li><strong>Data governance and reproducibility:</strong> Licensing frameworks for ancient language data, linked open data, lightweight computing, and data bias in cross-cultural research.</li>
+</ol>
+<p>Related topics include character sets and Unicode standards, transliteration and input methods, tokenization, morphological, syntactic, and semantic analysis, machine translation, corpus construction, processing of fragmentary texts, and NLP applications in literary and historical studies.</p>
+<h3 id="languages-of-interest">Languages of interest</h3>
+<p>Languages of interest come from ancient civilizations worldwide, including but not limited to Sumerian, Akkadian, Elamite, Old Persian, Ancient Egyptian, Meroitic, Hittite, Ancient Greek, Latin, Sanskrit, Hebrew, Classical Chinese, Old Tibetan, Old Japanese, and Mayan.</p>
+<h3 id="shared-tasks">Featured Shared Tasks</h3>
+<p>ALP 2027 will host two international shared evaluation tasks. Research teams are welcome to participate.</p>
+<h4 id="evacun">EvaCun 2027: OCR for Cuneiform Languages</h4>
+<p>The task asks teams to produce full digital transliterations from 2D images of cuneiform clay tablets. It offers two tracks: a vision-language model (VLM) only track and an open track that allows any OCR architecture. Evaluation measures recognition performance and segmentation quality overall and by attributes such as era. An extended evaluation uses a fixed machine translation model to assess downstream translation quality.</p>
+<h4 id="evahan">EvaHan 2027: Classical Chinese Text Difficulty Grading</h4>
+<p>This is the first international shared evaluation on Classical Chinese text difficulty grading. Systems classify Classical Chinese poetry and prose into ten difficulty levels, supporting reading adaptation and educational applications.</p>
+<h3 id="submission-types">Submission Guidelines</h3>
+<h4>Paper Types</h4>
+<ul>
+<li><strong>Long papers (8 pages):</strong> Full original research presenting mature findings.</li>
+<li><strong>Short papers (4 pages):</strong> Innovative exploratory work, resource descriptions, and case studies.</li>
+<li><strong>Shared-task papers (4 pages):</strong> System descriptions from participants in EvaCun 2027 and/or EvaHan 2027.</li>
+</ul>
+<p>All accepted papers will be published in the ACL Workshop Proceedings and indexed in the <a href="https://aclanthology.org/">ACL Anthology</a>.</p>
+<h4>Format Requirements</h4>
+<p>Submissions must use the <a href="https://github.com/acl-org/acl-style-files">official ACL LaTeX template</a> and comply with the page limits, citation rules, and formatting requirements. Detailed specifications will be announced in the second call for papers.</p>
+<h4>Originality and Review</h4>
+<p>Submissions must present original, unpublished work and may not be submitted concurrently to other venues. All submissions will undergo double-blind peer review.</p>
 <h3 id="submission">Submission</h3>
 <p>The ALP 2027 submission portal will be announced here. See the <a href="/alp2027/submission/">submission guidelines</a> for format and review requirements.</p>
 <h3 id="important-dates">Important Dates (preliminary)</h3>
-<p class="notice">
-<strong>These are placeholder dates from the first-call draft.</strong> Final dates and exact days will be announced. All deadlines are at 11:59 PM Anywhere-on-Earth (AoE, UTC−12:00).</p>
-<div class="table-responsive">
-<table class="table">
-<thead>
-<tr>
-<th scope="col">Event</th>
-<th scope="col">Preliminary timing</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Paper submission deadline</td>
-<td>March 2027 — exact date TBA</td>
-</tr>
-<tr>
-<td>Shared-task training-data release</td>
-<td>January 2027 — exact date TBA</td>
-</tr>
-<tr>
-<td>Shared-task test-data release</td>
-<td>January 2027 — exact date TBA</td>
-</tr>
-<tr>
-<td>Notification of paper acceptance</td>
-<td>April 2027 — exact date TBA</td>
-</tr>
-<tr>
-<td>Camera-ready submission</td>
-<td>May 2027 — exact date TBA</td>
-</tr>
-<tr>
-<td>ALP 2027 workshop day</td>
-<td>August 2027, Kyoto, Japan — exact date TBA</td>
-</tr>
-</tbody>
-</table>
-</div>
+<p>This is a preliminary call. Final deadlines and other key dates will be announced in the second call for papers.</p>
+<ul>
+<li>Paper submission deadline: <strong>1 April 2027</strong></li>
+<li>Shared-task training-data release: <strong>1 December 2026</strong></li>
+<li>Shared-task test-data release: <strong>1 March 2027</strong></li>
+<li>Notification of paper acceptance: <strong>20 April 2027</strong></li>
+<li>Camera-ready submission: <strong>15 May 2027</strong></li>
+<li>ALP 2027 workshop date: <strong>August 2027, Kyoto, Japan</strong> (exact date TBA)</li>
+</ul>
 <h3 id="diversity-inclusion">Diversity &amp; Inclusion</h3>
 <p>The workshop welcomes contributions from researchers across computer-science groups, humanities departments, archaeological missions, museums and independent research teams worldwide. Our programme committee spans Europe, East Asia, North America and the Middle East, combining computational linguists and domain philologists. We encourage submissions from early-career researchers, graduate students, and scholars from communities traditionally under-represented in ACL-affiliated events. Shared-task participation is open to unaffiliated teams, and shared-task datasets are released under open licences.</p>
+<h3 id="organizing-information">Organizing Information</h3>
+<p>Visit the <a href="/alp2027/">official ALP 2027 website</a> for updates and see the <a href="/alp2027/organization/#organizing-committee">Organizing Committee</a>.</p>
 <h3 id="contact">Contact</h3>
 <p>For inquiries, please contact the organizing committee at <a href="mailto:alp-workshop-organizers-2027@googlegroups.com">alp-workshop-organizers-2027@googlegroups.com</a>.</p>
 </div>
@@ -181,7 +155,7 @@
 </div>
 </main>
 <footer class="sticky-bottom mt-5">
-<div class="container">Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Last updated: October 13, 2026.</div>
+<div class="container">Hosted by <a href="https://pages.github.com/" target="_blank" rel="external nofollow noopener">GitHub Pages</a>. Last updated: November 11, 2026.</div>
 </footer>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous">
